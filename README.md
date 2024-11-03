@@ -1,4 +1,4 @@
-# directory-tree-generator
+# Directory Tree Generator
 This PowerShell script generates a tree-like structure of a directory and its subdirectories. The script uses recursion to traverse the directory structure and prints out the structure with a clear distinction between folders and files.
 
 ## Usage

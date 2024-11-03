@@ -7,7 +7,7 @@ This PowerShell script generates a tree-like structure of a directory and its su
 2. Open PowerShell and navigate to the directory where the script is saved.
 3. Run the script with the root directory as an argument:
 
-``` .\dtg.ps1 "path\to\my\folder" ```
+``` .\dtg.ps1 <path\to\my\folder> ```
 
 ## Example of output
 
